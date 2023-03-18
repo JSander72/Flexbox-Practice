@@ -1,0 +1,9 @@
+.boxes {
+  display: flex;
+  flex-direction: row-reverse;
+}
+
+.boxes>div {
+  border: 1px solid black;
+  padding: 1em;
+}
